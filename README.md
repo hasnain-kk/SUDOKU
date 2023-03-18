@@ -12,7 +12,7 @@
 	<li>Clone the repository using the following command:<br>
 		<code>git clone https://github.com/hasnain-kk/sudoku_game.git</code></li>
 	<li>Open the project in your favorite Java IDE.</li>
-	<li>Compile and run the SudokuGame.java file.</li>
+	<li>Compile and run the main.java file.</li>
 	<li>Choose a difficulty level and start playing!</li>
 </ol>
 
