@@ -16,9 +16,6 @@
 	<li>Choose a difficulty level and start playing!</li>
 </ol>
 
-<h2>📝Gameplay</h2>
-<p>The game has a simple and intuitive interface. Players can select a cell on the board and enter a number using the keyboard. The game will highlight any conflicting numbers in red and prevent the player from entering an invalid number. Players can also use the "hint" button to reveal a correct number for one cell, or the "solve" button to solve the entire puzzle.</p>
-
 <h2>🤖 Technical Details</h2>
 <p>The Sudoku game is implemented using Java and object-oriented programming concepts. It uses the Swing library for the graphical user interface and a backtracking algorithm to generate and solve puzzles.</p>
 
